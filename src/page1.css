@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+    font-weight: 100;
+    padding-top: 30px;
+    text-transform: uppercase;
+}
+h2{
+    font-size: 30px;
+    font-weight: 300;
+    margin-top: 20px;
+}
+h2 input{
+    margin-left: 20px;
+  
+}
